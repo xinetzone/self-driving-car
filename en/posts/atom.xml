@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://xinetzone.github.io/self-driving-car</id>
+  <title>Blog</title>
+  <updated>2021-12-03T06:29:40.247333+00:00</updated>
+  <link href="https://xinetzone.github.io/self-driving-car"/>
+  <link href="https://xinetzone.github.io/self-driving-car/en/posts/atom.xml" rel="self"/>
+  <generator uri="https://ablog.readthedocs.org/" version="0.10.21">ABlog</generator>
+</feed>
